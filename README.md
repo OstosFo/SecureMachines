@@ -1,7 +1,7 @@
 # 🚀 **CTF & Machines Walkthroughs** 🕵️‍♂️
 
-¡Bienvenidos a un espacio donde exploramos el arte del hacking ético, desentrañamos desafíos de C>
-Este repositorio es un recurso **colaborativo** 📚 para aprender, compartir y crecer juntos en el>
+¡Bienvenidos a un espacio donde exploramos el arte del hacking ético, desentrañamos desafíos de CTFs
+Este repositorio es un recurso **colaborativo** 📚 para aprender, compartir y crecer juntos en el
 
 ---
 
